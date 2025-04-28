@@ -6,7 +6,8 @@
 
 ### 👋 About Me
 
-I am a dedicated **Bioinformatics student** at Charles University in Prague, with a strong passion for developing **innovative algorithms** and analyzing **complex biological data**.
+I am a **Bioinformatics student** at Charles University in Prague, with a strong passion for **algorithmic approaches** and analyzing **complex biological data**. 
+I have a keen interest in understanding and applying innovative algorithms to biological problems.
 
 ---
 
