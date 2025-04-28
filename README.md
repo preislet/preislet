@@ -4,17 +4,6 @@
   Bioinformatics Student | Data Analyst | Algorithm Enthusiast
 </p>
 
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#what-i'm-doing-now">What I'm Doing Now</a> •
-  <a href="#skills--technologies">Skills & Technologies</a> •
-  <a href="#featured-projects">Featured Projects</a> •
-  <a href="#github-stats">GitHub Stats</a> •
-  <a href="#connect-with-me">Connect</a>
-</p>
-
----
-
 ### 👋 About Me
 
 I am a dedicated **Bioinformatics student** at Charles University in Prague, with a strong passion for developing **innovative algorithms** and analyzing **complex biological data**.
