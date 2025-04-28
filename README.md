@@ -54,9 +54,6 @@ I'm always open to connecting and discussing bioinformatics, data analysis, algo
 
 *   **LinkedIn:** [Tomáš Preisler](https://www.linkedin.com/in/tomas-preisler-698ba1316)
 *   **Email:** `tomas.preisler1@gmail.com` or `preislet@natur.cuni.cz`
-*   **Or simply drop me a message via GitHub!**
 
----
 
-<p align="center">Thanks for stopping by!</p>
 
