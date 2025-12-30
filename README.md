@@ -42,13 +42,9 @@ I am a **Bioinformatics student** at Charles University in Prague, passionate ab
 
 Here are some projects from my GitHub that showcase my work and interests:
 
-*   [**TrmD_project**](https://github.com/preislet/TrmD_project) - Search for small molecules binding to the TrmD protein. (Relates to MS project)
-*   [**Database_comparator**](https://github.com/preislet/Database_comparator) - A project implementing efficient algorithms for searching and comparing sequence data. (Relates to Software Engineer role)
----
-
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preislet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+*   [**Drug design - TrmD_project**](https://github.com/preislet/TrmD_project) - Search for small molecules binding to the TrmD protein. 
+*   [**Database_comparator**](https://github.com/preislet/Database_comparator) - A project implementing efficient algorithms for searching and comparing sequence data. 
+*   [**Spotify analysis](https://tobiasmarek.github.io/statistics/spotify_project/index.html) - A data science and visualization project focused on personal music trends over several years.
 ---
 
 ### 📫 Connect with Me
